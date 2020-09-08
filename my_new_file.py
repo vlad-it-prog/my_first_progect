@@ -1,6 +1,6 @@
-def my_fn(x, y):
-    a = x + y
+def my_fn(x):
+    a = x + 1
     return a
 
 
-print(my_fn(3, 4))
+print(my_fn(3))
