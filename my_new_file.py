@@ -4,3 +4,13 @@ def my_fn(x):
 
 
 print(my_fn(3))
+
+
+import math
+
+
+def my_fn_2(x):
+    return math.sqrt(x)
+
+
+print(my_fn_2(10))
